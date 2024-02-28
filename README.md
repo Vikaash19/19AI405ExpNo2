@@ -105,6 +105,7 @@ tdp=dfs(g,st,vi,p)
 print(tdp)
 ```
 ## Output:
+![Exp 2 DFS](https://github.com/Vikaash19/19AI405ExpNo2/assets/148514589/00a44bf0-a89c-40e0-a1ba-867ae049ee4e)
 
 <h3>Result:</h3>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
