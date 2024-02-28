@@ -65,12 +65,11 @@ C G <BR>
 D F <BR>
 G F <BR>
 F H <BR>
-<hr>
+
 <h3>Sample Output</h3>
-<hr>
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
+
 <h3>Sample Input</h3>
-<hr>
 5 5 <BR>
 0 1 <BR>
 0 2 <BR>
